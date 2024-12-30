@@ -17,7 +17,7 @@ function mostrar(){
 // document.querySelector("selector-css"); -> Devuelve el primer elemento que coincida con el selector CSS 
 
 // SELECCION MODERNA:
-// document.querySelectorAll("selector-css"); -> Devuelve todos los elementos que coincidan con el selector CSS en forma de una NodeList
+// document.querySelectorAll("selector-css"); -> Devuelve todos los elementos que coincidan con el selector CSS en forma de una NodeList ("Osea se vuelve un iterable")
 
 // SELECCION DEL ELEMENTO PADRE O RAIZ:
 // document.documentElement; -> <html>
