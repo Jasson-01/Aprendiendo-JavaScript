@@ -10,7 +10,7 @@ document.getElementById("searchInput").addEventListener("keyup", (event) => {
 
 document.getElementById("searchButton").addEventListener("click", searchMovies)
 
-let api_key = "99dcf44c868cad4b938163aa645e6972"
+// let api_key = "99dcf44c868cad4b938163aa645e6972"
 let urlBase = "https://api.themoviedb.org/3/search/movie"
 let urlImg = "https://image.tmdb.org/t/p/w200"
 
